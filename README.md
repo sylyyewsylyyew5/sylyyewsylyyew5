@@ -105,8 +105,7 @@ I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aynazar-sylyyew-dev&theme=tokyonight&background=0D1117&stroke=7F52FF&ring=61DAFB&fire=7F52FF&currStreakLabel=61DAFB&hide_border=true)](https://git.io/streak-stats)
-
+[![Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph?username=aynazar-sylyyew-dev&theme=tokyo-night&bg_color=0D1117&color=7F52FF&line=61DAFB&point=FFFFFF&area=true&area_color=7F52FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <br/>
